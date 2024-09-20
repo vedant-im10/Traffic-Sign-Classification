@@ -43,7 +43,7 @@ In the age of autonomous vehicles, traffic sign recognition is critical for ensu
 
 ## 📊 Key Insights
 
-- **High Accuracy**: The CNN model achieved a classification accuracy of over 90%, demonstrating its effectiveness in recognizing traffic signs.
+- **High Accuracy**: The CNN model achieved a classification accuracy of over 97%, demonstrating its effectiveness in recognizing traffic signs.
 - **Robust to Variations**: The model performed well on images with varying brightness, angles, and partial occlusions, making it suitable for real-world deployment in autonomous systems.
 - **Scalable**: The architecture is scalable and can be easily extended to classify more complex image categories beyond traffic signs.
 
